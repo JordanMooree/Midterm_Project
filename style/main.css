@@ -1,0 +1,50 @@
+:root {
+  --bg-clr: #121212;
+  --font: "Lato", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body,
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0;
+}
+
+body {
+  background-color: var(--bg-clr);
+  color: white;
+  font-family: var(--font);
+}
+
+a {
+  text-decoration: none;
+  color: #f1c22c;
+}
+a:hover {
+  background-color: #d13737;
+  transition: 0.5s;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 16px;
+  list-style-type: none;
+}
+
+.nav-list li {
+  padding: 0 20px;
+}
