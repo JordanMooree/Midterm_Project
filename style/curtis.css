@@ -28,7 +28,10 @@
     color: var(--clr-1);
   }
   p{
+    margin-left: 3rem;
+    padding: 1rem;
     padding-top: 5%;
+    margin-right: 3rem;
   }
   iframe{
     display: block;
@@ -42,8 +45,9 @@
     text-align: center;
     max-width: 500px;
     margin: 0 auto;
-    padding-bottom: 10px;
+    padding-bottom: 1rem;
   }
+  
   
   /* Navigation list */
   .logo {
