@@ -1,0 +1,3 @@
+Comparing before using CSS and after using CSS, have your web pages improved or not? If so, why? If not, why not?
+
+(Jordan) - Before using CSS, my HTML file (jordan.html) was plain and not exciting. It had no complimenting color, typography, or alignment with any of the  HTML elements. After adding CSS, the page came to life and showed improvement from HTML. The color, typography, and layout of the page improved via the control of CSS. I used the flexbox model in many areas on my page and applied them to the main page (index.html).
